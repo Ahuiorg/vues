@@ -1,0 +1,9 @@
+{
+  "name": "vues",
+  "version": "1.0.0",
+  "description": "learn vue.js",
+  "main": "index.js",
+  "repository": "https://github.com/AngeLeeGeek/vues.git",
+  "author": "lipenghui",
+  "license": "MIT"
+}
